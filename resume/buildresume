@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /resume
+pdflatex main.tex -interaction=nonstopmode
